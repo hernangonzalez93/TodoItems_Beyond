@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TodoItems_Beyond": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
